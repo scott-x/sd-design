@@ -1,0 +1,29 @@
+{
+  "name": "sd-design",
+  "version": "1.0.0",
+  "description": "A component library for React, similar like ant-design",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scott-x/sd-design.git"
+  },
+  "keywords": [
+    "component",
+    "cli",
+    "react",
+    "scottxiong",
+    "judy201654321"
+  ],
+  "author": "Scott Xiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-x/sd-design/issues"
+  },
+  "homepage": "https://github.com/scott-x/sd-design#readme",
+  "dependencies": {
+    "judy201654321": "^1.0.1"
+  }
+}
